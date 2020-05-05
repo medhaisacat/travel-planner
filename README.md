@@ -15,4 +15,3 @@ Use the below command to run the program:
 ```shell
 $ npm --silent start
 ```
-
